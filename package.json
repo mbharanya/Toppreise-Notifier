@@ -1,0 +1,19 @@
+{
+  "name": "toppreise-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pushbullet": "^2.2.0",
+    "typescript": "^2.9.2",
+    "web-request": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^10.3.4"
+  }
+}
